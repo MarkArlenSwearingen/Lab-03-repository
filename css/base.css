@@ -18,8 +18,16 @@ figcaption {
   font-size: 90%;
 }
 
+main {
+  
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+
 li {
   text-decoration: none;
   display: inline;
   list-style-type: none;
 }
+
