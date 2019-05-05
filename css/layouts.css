@@ -1,21 +1,23 @@
 figure {
-  display: float;
   background-color: greenyellow;
   text-align: center;
   max-width: 300px;
   min-height: 200px;
   margin: 5px;
+  outline: 1px solid black;
 }
 
 img {
   max-width: 300px;
   max-height: 125px;
 }
-section {
-  float: left;
-}
 
 footer {
   clear: left;
   text-align: center;
+}
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
