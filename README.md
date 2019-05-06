@@ -1,7 +1,7 @@
 # lab-03-repository
 Number and name of feature: Feature 1: Pagination
 Estimate of time needed to complete: 2:00_____
-Start time: _11:09_- 11:45___
+Start time: _11:09_- 11:45___4:30-5:30 on 5/5/19
 Finish time: _____
 Actual time needed to complete: _____
 
@@ -26,12 +26,9 @@ Actual time needed to complete: _____
 ---------------------------------------
 ToDo List
 -----------------------------------------
-Pagination to single page - Move page2.html to index.html
+Pagination - wrote function from pagination and passed variable test but failed to update browser.
 Reset filters from images displayed
-
 Refactor render method using handlebars
-
-Style with Flexbox
 
 Sort by title, by number of horns,  Sort accross pages keeping sort criteria
 
