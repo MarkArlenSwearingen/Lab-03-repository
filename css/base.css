@@ -4,6 +4,11 @@ header {
   background-color: aquamarine;
 }
 
+nav {
+  display: flex;
+}
+
+
 body {
   background: hotpink;
 }
