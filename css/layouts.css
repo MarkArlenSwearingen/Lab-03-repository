@@ -4,6 +4,7 @@ figure {
   max-width: 300px;
   min-height: 200px;
   margin: 5px;
+  outline: 1px solid black;
 }
 
 img {
@@ -47,3 +48,5 @@ main {
 
 /* Add a grey background color on mouse-over */
 .pagination a:hover:not(.active) {background-color: #ddd;}
+
+
