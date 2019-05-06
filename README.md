@@ -1,5 +1,4 @@
 # lab-03-repository
-
 Number and name of feature: Feature 1: Pagination
 Estimate of time needed to complete: 2:00_____
 Start time: _11:09_- 11:45___
@@ -35,3 +34,4 @@ Refactor render method using handlebars
 Style with Flexbox
 
 Sort by title, by number of horns,  Sort accross pages keeping sort criteria
+
