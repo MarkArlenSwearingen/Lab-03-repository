@@ -42,6 +42,14 @@ Horn.prototype.populateDropDownMenu = function() {
   $list.appendTo('select');
 }
 
+// let page = './data/page-2.json';
+// function pageChange(pageNumber){
+//   console.log(page);
+//   console.log(pageNumber);
+//   page = `'pageNumber'`;
+//   Horn.readJson();
+// }
+
 Horn.readJson = () => {
   $.get('./data/page-1.json')
     .then(data => {
